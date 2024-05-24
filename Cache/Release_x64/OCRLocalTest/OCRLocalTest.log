@@ -1,0 +1,198 @@
+﻿  AngleNet.cpp
+D:\Work\Paddle\OCRLocalTest\Include\AngleNet.h(34,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\AngleNet.cpp(68,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\AngleNet.cpp(89): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int64_t>>>,
+              _Fn=std::multiplies<int64_t>
+          ]
+  base64.cpp
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\base64.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  clipper.cpp
+  CrnnNet.cpp
+D:\Work\Paddle\OCRLocalTest\Include\CrnnNet.h(32,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\CrnnNet.cpp(136,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\CrnnNet.cpp(129): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int64_t>>>,
+              _Fn=std::multiplies<int64_t>
+          ]
+  DbNet.cpp
+D:\Work\Paddle\OCRLocalTest\Include\DbNet.h(30,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\DbNet.h(31,96): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(34,26): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\DbNet.cpp(138): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int,std::multiplies<int64_t>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int64_t>>>,
+              _Fn=std::multiplies<int64_t>
+          ]
+  getopt.cpp
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\getopt.cpp(89,93): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  OcrLite.cpp
+D:\Work\Paddle\OCRLocalTest\Include\DbNet.h(30,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\DbNet.h(31,96): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\AngleNet.h(34,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\CrnnNet.h(32,72): warning C4305: “初始化”: 从“double”到“const float”截断
+  OCRLocalTest.cpp
+D:\Work\Paddle\OCRLocalTest\Include\main.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Work\Paddle\OCRLocalTest\Include\DbNet.h(30,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\DbNet.h(31,96): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\AngleNet.h(34,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\Include\CrnnNet.h(32,72): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OCRLocalTest.cpp(126,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  OcrUtils.cpp
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(140,29): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(141,43): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(141,29): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(142,34): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(145,51): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(145,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(146,51): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(146,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(147,51): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(147,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(148,51): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(148,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(681,68): warning C4244: “参数”: 从“ClipperLib::cInt”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(708): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,ClipperLib::cInt&,ClipperLib::cInt&>(_Alloc &,_Objty *const ,ClipperLib::cInt &,ClipperLib::cInt &)”的引用
+          with
+          [
+              _Alloc=std::allocator<cv::Point2f>,
+              _Ty=cv::Point_<float>,
+              _Objty=cv::Point_<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(713): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,ClipperLib::cInt&,ClipperLib::cInt&>(_Alloc &,_Objty *const ,ClipperLib::cInt &,ClipperLib::cInt &)”的引用
+          with
+          [
+              _Alloc=std::allocator<cv::Point2f>,
+              _Ty=cv::Point_<float>,
+              _Objty=cv::Point_<float>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(726): message : 查看对正在编译的函数 模板 实例化“void std::vector<cv::Point2f,std::allocator<cv::Point2f>>::_Emplace_back_with_unused_capacity<ClipperLib::cInt&,ClipperLib::cInt&>(ClipperLib::cInt &,ClipperLib::cInt &)”的引用
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\OcrUtils.cpp(279): message : 查看对正在编译的函数 模板 实例化“void std::vector<cv::Point2f,std::allocator<cv::Point2f>>::emplace_back<ClipperLib::cInt&,ClipperLib::cInt&>(ClipperLib::cInt &,ClipperLib::cInt &)”的引用
+  tools.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\tools.cpp(70,46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\tools.cpp(120,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Work\Paddle\OCRLocalTest\OCRLocalTest\tools.cpp(182,39): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  OCRLocalTest.vcxproj -> D:\Work\Paddle\OCRLocalTest\Output\Release_x64\OCRLocalTest.exe
